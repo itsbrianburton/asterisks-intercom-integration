@@ -1,15 +1,15 @@
 {
-    "domain": "asterisk",
-    "name": "Asterisk",
+    "domain": "asterisk-intercom",
+    "name": "Asterisk Intercom",
     "codeowners": [
-        "@TECH7Fox"
+        "@itsbrianburton"
     ],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/TECH7Fox/Asterisk-integration",
+    "documentation": "https://github.com/itsbrianburton/asterisk-intercom-integration",
     "homekit": {},
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/TECH7Fox/Asterisk-integration/issues",
+    "issue_tracker": "https://github.com/itsbrianburton/asterisk-intercom-integration/issues",
     "loggers": ["custom_components.asterisk"],
     "requirements": ["asterisk-ami==0.1.6"],
     "ssdp": [],
